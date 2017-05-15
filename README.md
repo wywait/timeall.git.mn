@@ -1,0 +1,2 @@
+# timeall.git.mn
+wygit
